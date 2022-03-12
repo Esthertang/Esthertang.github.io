@@ -6,7 +6,7 @@
 ```Python
 print（‘hello world’）
 ```
-[百度一下](baidu.com)
+[百度一下](www.baidu.com)
 
 1. test1
 2. test2
